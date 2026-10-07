@@ -1,0 +1,23 @@
+dodaj 2024-01-01 12:30 44103089700 Stefan Dylik
+dodaj 2024-01-03 10:45 05281957096 Cyprian Kidawa
+dodaj 2024-01-02 16:30 94042586068 Ada Bałdys
+dodaj 2024-01-04 14:00 47120433383 Miłosz Dąbrowicz
+dodaj 2024-01-01 10:15 77020235095 Krzysztof Listwan
+wypisz alfabetycznie
+wypisz wiekiem
+wypisz wizytami
+dodaj 2024-01-04 11:30 02321863476 Matura Aniela
+dodaj 2024-01-04 14:00 61100837014 Feluś Piotr
+dodaj 2024-01-02 12:30 61100837014 Feluś Piotr
+usun 2024-01-01 12:30
+usun 2024-01-02 16:30
+usun 2024-01-01 13:15
+dodaj 2024-01-03 16:00 44081052350 Twardzik Bartek
+dodaj 2024-01-02 16:30 93042291303 Sobiło Inga
+dodaj 2024-01-03 14:30 72092981231 Huber Dominik
+usun 2024-01-04 14:00
+usun 2024-01-04 11:30
+usun 2024-01-03 13:15
+wypisz alfabetycznie
+wypisz wiekiem
+wypisz wizytami
